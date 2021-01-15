@@ -22,7 +22,7 @@ logo: /img/logo.png
 # random_other_url: https://source.unsplash.com/collection/954550/1920x1080 | https://api.berryapi.net/?service=App.Bing.Images&day=-0
 mask_alpha: 0.4
 background_image:
-    mode: normal
+    mode: random
     normal_url: /img/header-bg.jpg 
     random_you_max: 110 
     random_you_url: https://sariay.github.io/Random-img/
@@ -46,7 +46,7 @@ preloader:
 # 003-INDEX
 #########################################################################################################
 # index-style: pure | cart
-index_style: cart
+index_style: pure
 
 # index_cart_cover
 cover: /img/cart_cover.jpg
@@ -165,34 +165,13 @@ socialShare:
 # social links
 # Check the icon in the page of Icomoon
 social:
-	one: 
-        url: http://github.com/
-        icon: <span class="icon-one"><span class="path1"></span><span class="path2"></span></span>
-	zhihu: 
-        url: http://github.com/
-        icon: <span class="icon-zhihu"></span>
 	github:
-        url: http://github.com/
-        icon: <span class="icon-github"></span>
-	weibo: 
-        url: http://github.com/
-        icon: <span class="icon-sina-weibo "></span>   
-	pinterest: 
-        url: http://github.com/
-        icon: <span class="icon-pinterest2"></span>   
-	instagram:
-        url: http://github.com/
-        icon: <span class="icon-instagram"></span>   
-	twitter:
-        url: http://github.com/
-        icon: <span class="icon-twitter"></span>   
-	rss: 
-        url: /atom.xml
-        icon: <span class="icon-rss"></span>   
+        url: http://github.com/shawceng
+        icon: <span class="icon-github"></span>  
 
 # copyright  
-since: 2017
-author: Sariay
+since: 2020
+author: Shawceng
 
 #########################################################################################################
 # 006-GALLERY PAGE
